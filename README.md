@@ -2,9 +2,9 @@
 
 # ChatterBot
 
-ChatterBot is a machine-learning based conversational dialog engine build in
+AnsiBot is a machine-learning based conversational dialog engine specialised in Ansible built in
 Python which makes it possible to generate responses based on collections of
-known conversations. The language independent design of ChatterBot allows it
+known conversations. The language independent design of AnsiBot allows it
 to be trained to speak any language.
 
 [![Package Version](https://img.shields.io/pypi/v/chatterbot.svg)](https://pypi.python.org/pypi/chatterbot/)
